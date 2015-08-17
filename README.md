@@ -1,1 +1,1 @@
-# &#35;firsthack 2015 - New Inventions on the Block
+# [&#35;firsthack 2015](http://firsthack.org/) - New Inventions on the Block
